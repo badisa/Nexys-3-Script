@@ -9,6 +9,9 @@ Installation
 
 Usage
 -----
+Outputs a ufc file with the name passed to the script
+
 .. code-block::
 
-    $ufc_generator.py -name Lab0A -i A SD0 -i B SD1 -o F LD0
+    $ufc_generator.py -name Lab0A -i A SD0 -i B SD1 -o F LD0 -o F_2 LD1
+
