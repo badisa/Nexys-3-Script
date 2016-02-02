@@ -1,6 +1,10 @@
 Nexys 3 UCF Script Module
 #########################
 
+Warning
+*******
+Does not contain all mappings, just the basic ones that I saw need for (Switches, Buttons, LEDs) more will be added as needed. Feel free to make a pull request adding some or adding an issue to request some.
+
 Installation
 ------------
 .. code-block::
