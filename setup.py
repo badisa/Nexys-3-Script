@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='Nexys-UFC-Script',
+    name='Nexys-UCF-Script',
     version="0.0.1",
     description="A script for creating UFC files for Nexys 3 Boards",
     long_description=open("README.rst").read(),
@@ -10,7 +10,7 @@ setup(
     author_email="forrest.york@gmail.com",
     license="MIT",
     scripts=[
-        "ufc_generator.py"
+        "ucf_generator.py"
     ],
     zip_safe=False
 )

@@ -1,4 +1,4 @@
-Nexys 3 UFC Script Module
+Nexys 3 UCF Script Module
 #########################
 
 Installation
@@ -9,9 +9,9 @@ Installation
 
 Usage
 -----
-Outputs a ufc file with the name passed to the script
+Outputs a ucf file with the name passed to the script
 
 .. code-block::
 
-    $ufc_generator.py -name Lab0A -i A SD0 -i B SD1 -o F LD0 -o F_2 LD1
+    $ucf_generator.py -name Lab0A -i A SD0 -i B SD1 -o F LD0 -o F_2 LD1
 
